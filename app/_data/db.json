@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "komalMaksane",
+      "email": "kmaksane20@gmail.com",
+      "id": "d993"
+    },
+    {
+      "name": "komalmaksane",
+      "email": "maksanekomal@gmail.com",
+      "id": "8c68"
+    },
+    {
+      "id": "150e",
+      "name": "komal",
+      "email": "maksanekomal@gmail.com",
+      "userId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
